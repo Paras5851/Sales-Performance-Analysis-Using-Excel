@@ -13,3 +13,4 @@ To analyze and improve sales performance using Excel for better decision-making.
 
 **Conclusion:**
 The project effectively identifies sales trends, highlights performance gaps, and helps optimize sales strategies for better results.
+![Screenshot 2025-02-15 155151](https://github.com/user-attachments/assets/61522bc2-7c1a-4d28-9ac7-d75b91f82932)
